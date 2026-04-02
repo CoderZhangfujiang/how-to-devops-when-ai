@@ -1,2 +1,36 @@
-# how-to-devops-when-ai
-Explore how DevOps practices should evolve in the AI Agent era
+# How to DevOps When AI
+
+> 探讨在 AI Agent 时代，DevOps 实践应该如何演进
+
+## 📌 项目简介
+
+当一个项目由大量的 AI Agent 去完成项目的设计、开发、测试、运维时，传统的 DevOps 流程应该做成什么样子？
+
+本项目旨在探索 AI 时代下的 DevOps 最佳实践。
+
+## 🎯 核心问题
+
+1. **Agent 编排** - 如何协调多个 AI Agent 的工作？
+2. **质量保障** - AI 生成的代码如何保证质量？
+3. **自动化** - 全自动化 CI/CD 流程如何设计？
+4. **监控告警** - Agent 行为如何监控？
+5. **安全合规** - AI Agent 的安全边界在哪里？
+
+## 📖 章节目录（规划中）
+
+- [ ] 第一章：AI Agent 概述
+- [ ] 第二章：传统 DevOps 回顾
+- [ ] 第三章：AI 时代的 DevOps 变革
+- [ ] 第四章：Agent 编排与协作
+- [ ] 第五章：AI 驱动的 CI/CD
+- [ ] 第六章：智能监控与告警
+- [ ] 第七章：安全与合规
+- [ ] 第八章：实战案例
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 PR！
+
+## 📄 License
+
+MIT
